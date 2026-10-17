@@ -1,10 +1,9 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Waseem+Mahmoud;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%F0%9F%93%8A;SQL+%E2%80%A2+Tableau+%E2%80%A2+Power+BI;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" /><br>
+<img src="https://github.com/waseemalali/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/waseemalali/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="12%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="12%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="12%"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Waseem+Mahmoud;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%F0%9F%93%8A;SQL+%E2%80%A2+Tableau+%E2%80%A2+Power+BI;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" /><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=waseemalali&style=flat&color=F2C811&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Waseem%20Mahmoud-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-mahmoud-a34154213)
