@@ -107,7 +107,16 @@ WHERE passion = 'data'
 
 ## 🚀 Featured Projects
 
-🚧 **Coming soon:** SQL analysis and Tableau dashboard projects are on the way. Stay tuned!
+| Project | What it does | Tools |
+|---|---|---|
+| [🛍️ Olist E-Commerce Analytics](https://github.com/waseemalali/olist-ecommerce-analytics) | Modular pipeline over 100K orders: cleaning, RFM segmentation, delivery KPIs, and a Streamlit dashboard | Python, pandas, Plotly, Streamlit |
+| [📦 Retail Inventory & Replenishment](https://github.com/waseemalali/retail-inventory-forecasting) | 73K records: 94% forecast accuracy, ABC analysis, safety stock, reorder point, and EOQ plan | Python, pandas, Excel |
+| [🚢 Titanic Survival Prediction](https://github.com/waseemalali/titanic-survival-prediction) | Leakage-free scikit-learn pipeline with tuning: 84.9% test accuracy | Python, scikit-learn |
+| [🏠 California Housing Prediction](https://github.com/waseemalali/california-housing-prediction) | Linear vs. polynomial regression with cross-validated model selection | Python, scikit-learn |
+| [🛒 Amazon Products Analysis](https://github.com/waseemalali/amazon-products-analysis) | Cleaning messy price and rating text data, plus pricing and rating insights | Python, pandas |
+| [🕸️ Wuzzuf Jobs Scraper](https://github.com/waseemalali/wuzzuf-jobs-scraper) | Scrapes Python job listings (title, company, skills, salary) into a clean CSV dataset | Python, Selenium, BeautifulSoup |
+| [🏥 Hospital SQL Analysis](https://github.com/waseemalali/hospital-sql-analysis) | 7-table hospital database and 16 business queries: CTEs, window functions, revenue rankings | SQL Server (T-SQL) |
+| [💊 Pharmacy AI Chatbot](https://github.com/waseemalali/pharmacy-ai-chatbot) | Gemini-powered pharmacy assistant with safety guardrails, in Arabic and English | Python, Google Gemini API |
 
 ---
 
