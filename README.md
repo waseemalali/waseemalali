@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=50&duration=2500&pause=1500&color=0C0C0C&background=FBFDFDFF&center=true&vCenter=true&width=800&height=138&lines=Hello+%3Ccoders%2F%3E;I%27m+Waseem+Mahmoud" alt="Hello, I'm Waseem Mahmoud" width="60%"/>
   <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Data" width="40%"/>
   <br><br>
@@ -39,19 +39,9 @@ I bridge the gap between business needs and data: I understand what stakeholders
 
 ---
 
-<!-- ============================== CORE STACK ============================== -->
+<!-- ============================== WHAT I DO ============================== -->
 
-## ⭐ Core Stack
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-</div>
-
-### 👨‍💻 What I Do
+## 👨‍💻 What I Do
 
 - 🗄️ **SQL (MySQL & Microsoft SQL Server):** write queries with joins, aggregations, subqueries, CTEs and window functions to extract, clean and transform data
 - 📊 **Tableau:** build interactive dashboards with filters, calculated fields and KPI views that tell a clear story
