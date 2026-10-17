@@ -2,9 +2,9 @@
 
 <div align="center">
 
-  <img src="images/hellocoders_rounded.gif" alt="Hello" width="60%"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/>
   <br>
-  <img src="images/dev-working_rounded.gif" alt="Working on Data" width="40%"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Working on Data" width="40%"/>
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F2C811&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Waseem+Mahmoud;Data+Analyst+%7C+Business+Analyst;Business+Intelligence+%F0%9F%93%8A;SQL+%E2%80%A2+Tableau+%E2%80%A2+Power+BI;Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -87,10 +87,11 @@ I bridge the gap between business needs and data: I understand what stakeholders
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Data Collection & Version Control**
+**Data Collection & Dev Tools**
 <br>
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3C873A?style=flat&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
