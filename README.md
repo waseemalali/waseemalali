@@ -110,6 +110,9 @@ WHERE passion = 'data'
 | Project | What it does | Tools |
 |---|---|---|
 | [🛍️ Olist E-Commerce Analytics](https://github.com/waseemalali/olist-ecommerce-analytics) | Modular pipeline over 100K orders: cleaning, RFM segmentation, delivery KPIs, and a Streamlit dashboard | Python, pandas, Plotly, Streamlit |
+| [🚲 Capital Bikeshare BI](https://github.com/waseemalali/capital-bikeshare-bi) | Graduation project (Best Graduation Project): demand patterns 2019-2024, weather impact, and an ARIMA forecast (10.87% MAPE) | R, Power BI, Tableau |
+| [🧸 Maven Toys Sales Analysis](https://github.com/waseemalali/maven-toys-sales-analysis) | Executive dashboard for $14.44M revenue and 829K transactions: margin compression, hero products, and best store model | Power BI, DAX, Excel |
+| [🍛 Bittoo Tikki Wala Expansion](https://github.com/waseemalali/bittoo-tikki-wala-expansion) | Restaurant sales KPIs, DAX correlation, and SWOT to plan a market entry into Jordan | Power BI, DAX |
 | [📦 Retail Inventory & Replenishment](https://github.com/waseemalali/retail-inventory-forecasting) | 73K records: 94% forecast accuracy, ABC analysis, safety stock, reorder point, and EOQ plan | Python, pandas, Excel |
 | [🚢 Titanic Survival Prediction](https://github.com/waseemalali/titanic-survival-prediction) | Leakage-free scikit-learn pipeline with tuning: 84.9% test accuracy | Python, scikit-learn |
 | [🏠 California Housing Prediction](https://github.com/waseemalali/california-housing-prediction) | Linear vs. polynomial regression with cross-validated model selection | Python, scikit-learn |
