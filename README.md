@@ -21,6 +21,7 @@
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=waseemalali&style=flat&color=F2C811&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://waseemalali.github.io"><img src="https://img.shields.io/badge/Portfolio-waseemalali.github.io-1f3a6e?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/waseem-mahmoud-a34154213"><img src="https://img.shields.io/badge/LinkedIn-Waseem%20Mahmoud-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:waseem.mahmoud002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
